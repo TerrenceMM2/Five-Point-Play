@@ -1,6 +1,5 @@
 # Five Point Play <img align="right" width="100" height="100" src="../media/logo.png">
-Live Link: http://fivepointplay.herokuapp.com/
-   
+
 ## Purpose  
 Five Point Play allows fantasy basketball participants view player statistics, assess fantasy values based on specific league systems, and save players to a personalized list.  
 
